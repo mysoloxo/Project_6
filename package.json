@@ -1,0 +1,18 @@
+{
+  "name": "techdegree_project_6",
+  "version": "0.0.1",
+  "description": "Static Node.js and Express Site",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eyanjem Etta-Ashu",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1",
+    "pug": "^2.0.4"
+  }
+}

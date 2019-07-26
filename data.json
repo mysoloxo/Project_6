@@ -1,0 +1,99 @@
+{
+    "projects": [
+      {
+        "id": 0,
+        "project_name": "Random Quote Generator",
+        "description": "An application to generate random qoutes",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "live_link": "https://mysoloxo.github.io/Project_1/",
+        "github_link": "https://github.com/mysoloxo/Project_1.git",
+        "image_urls": [
+          "/static/image/project1.png",
+          "/static/image/project1_1.png",
+          "/static/image/project1_2.png",
+          "/static/image/project1_3.png" 
+        ]
+      },
+      {
+        "id": 1,
+        "project_name": "List Pagination Filtering",
+        "description": "An application that paginates and filter's a lists",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "live_link": "https://mysoloxo.github.io/Project_2/",
+        "github_link": "https://github.com/mysoloxo/Project_2.git",
+        "image_urls": [
+          "/static/image/project2.png",
+          "/static/image/project2_1.png",
+          "/static/image/project2_2.png",
+          "/static/image/project2_3.png"
+        ]
+      },
+      {
+        "id": 2,
+        "project_name": "Interactive Form",
+        "description": "An application that shows interactivity and validation of a form",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "jQuery"
+        ],
+        "live_link": "https://mysoloxo.github.io/Project_3/",
+        "github_link": "https://github.com/mysoloxo/Project_3.git",
+        "image_urls": [
+          "/static/image/project3.png",
+          "/static/image/project3_1.png",
+          "/static/image/project3_2.png",
+          "/static/image/project3_3.png"
+        ]
+      },
+      {
+        "id": 3,
+        "project_name": "OOP Game Show App",
+        "description": "An application that shows object-oriented programing in a game",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "jQuery"
+        ],
+        "live_link": " https://mysoloxo.github.io/Project_4/",
+        "github_link": "https://github.com/mysoloxo/Project_4.git",
+        "image_urls": [
+          "/static/image/project4.png",
+          "/static/image/project4_1.png",
+          "/static/image/project4_2.png",
+          "/static/image/project4_3.png",
+          "/static/image/project4_4.png"
+        ]
+      },
+      {
+        "id": 4,
+        "project_name": "Public API Requests",
+        "description": "An application that utilises public api requests and asynchronous programming",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "JSON"
+        ],
+        "live_link": " https://mysoloxo.github.io/Project_5/",
+        "github_link": "https://github.com/mysoloxo/Project_5.git",
+        "image_urls": [
+          "/static/image/project5.png",
+          "/static/image/project5_1.png",
+          "/static/image/project5_2.png",
+          "/static/image/project5_3.png"
+          
+        ]
+      }
+    ]
+  }

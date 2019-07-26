@@ -1,0 +1,18 @@
+extends layout.pug
+
+block content 
+  article.grid-container.portfolio-intro
+    div
+      h1 EYANJEM'S Portfolio
+      p.lead.text-light
+        |This is a portfolio of my full stack javascript projects 
+  article.grid-container.portfolio-index    
+    .grid-x.grid-margin-x.small-up-2.medium-up-2.large-up-3
+      each val, index in projects
+        .cell
+          .zoom
+           a(href=`/projects/${index}`)
+            img.thumbnail(src=val.image_urls[0])
+            h5= val.project_name
+      
+//- ${project.id}
